@@ -1,0 +1,4 @@
+D:\May\webapi\netframework\MemHandle\bin\Debug\MemHandle.exe
+D:\May\webapi\netframework\MemHandle\bin\Debug\MemHandle.pdb
+D:\May\webapi\netframework\MemHandle\obj\Debug\MemHandle.exe
+D:\May\webapi\netframework\MemHandle\obj\Debug\MemHandle.pdb
